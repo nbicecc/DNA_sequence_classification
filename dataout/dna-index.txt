@@ -1,0 +1,8 @@
+0 aaa,1 aat,2 aag,3 aac,4 ata,5 att,6 atg,7 atc
+8 aga,9 agt,10 agg,11 agc,12 aca,13 act,14 acg,15 acc
+16 taa,17 tat,18 tag,19 tac,20 tta,21 ttt,22 ttg,23 ttc
+24 tga,25 tgt,26 tgg,27 tgc,28 tca,29 tct,30 tcg,31 tcc
+32 gaa,33 gat,34 gag,35 gac,36 gta,37 gtt,38 gtg,39 gtc
+40 gga,41 ggt,42 ggg,43 ggc,44 gca,45 gct,46 gcg,47 gcc
+48 caa,49 cat,50 cag,51 cac,52 cta,53 ctt,54 ctg,55 ctc
+56 cga,57 cgt,58 cgg,59 cgc,60 cca,61 cct,62 ccg,63 ccc
